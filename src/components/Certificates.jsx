@@ -171,25 +171,25 @@ const Certificates = ({ isDarkMode, toggleMode }) => {
 
   // Initial State
   const [items, setItems] = useState([
-    { id: 1, title: "Create an intelligent document processing solution with Azure AI Document Intelligence", category: "Microsoft", image: "../src/assets/first.png" },
-    { id: 2, title: "Build a natural language processing solution with Azure AI Language", category: "Microsoft", image: "../src/assets/second.png" },
-    { id: 3, title: "Microsoft AI Skill Challenge", category: "Microsoft", image: "../src/assets/third.png" },
-    { id: 4, title: "Gen AI Study Jams", category: "Google Cloud", image: "../src/assets/fourth.png" },
+    { id: 1, title: "Create an intelligent document processing solution with Azure AI Document Intelligence", category: "Microsoft", image: "https://i.postimg.cc/0Qf1SD4d/image.png" },
+    { id: 2, title: "Build a natural language processing solution with Azure AI Language", category: "Microsoft", image: "https://i.postimg.cc/kG4ztZKd/image.png" },
+    { id: 3, title: "Microsoft AI Skill Challenge", category: "Microsoft", image: "https://i.postimg.cc/5NXD4hfw/image.png" },
+    { id: 4, title: "Gen AI Study Jams", category: "Google Cloud", image: "https://i.postimg.cc/HxSPH2KJ/image.png" },
   ]);
 
   // The master list of items that exist in our database
   const DATABASE_ITEMS = [
-    { id: 5, title: "Bharatiya Sakshya Adhiniyam", category: "MyGov", image: "../src/assets/fifth.png" },
-    { id: 6, title: "SQL Module", category: "Newton School", image: "../src/assets/sixth.png" },
-    { id: 7, title: "Internship Certificate", category: "IBM", image: "../src/assets/seventh.png" },
-    { id: 8, title: "Yuva AI for All", category: "India AI", image: "../src/assets/eighth.png" },
-    { id: 9, title: "MoSPI & MyGov", category: "MyGov", image: "../src/assets/nineth.png" },
-    { id: 10, title: "Frontend Developer", category: "SWOC'25", image: "../src/assets/tenth.png" },
-    { id: 11, title: "Master class of Figma", category: "Physics Wallah", image: "../src/assets/eleventh.png" },
-    { id: 12, title: "Frontend Developer(React)", category: "HackerRank", image: "../src/assets/twelevth.png" },
-    { id: 13, title: "Hackathon", category: "MAIT, Rohini", image: "../src/assets/thirteenth.png" },
-    { id: 14, title: "AINCAT 2025", category: "Naukri Campus", image: "../src/assets/fourteenth.png" },
-    { id: 15, title: "Frontend Battle 2.0", category: "IIT Bhubaneswar", image: "../src/assets/fifteenth.png" },
+    { id: 5, title: "Bharatiya Sakshya Adhiniyam", category: "MyGov", image: "https://i.postimg.cc/wBgWmZYG/image.png" },
+    { id: 6, title: "SQL Module", category: "Newton School", image: "https://i.postimg.cc/qqhQrdyS/image.png" },
+    { id: 7, title: "Internship Certificate", category: "IBM", image: "https://i.postimg.cc/PfCkJp4H/image.png" },
+    { id: 8, title: "Yuva AI for All", category: "India AI", image: "https://i.postimg.cc/DwTVxCKz/image.png" },
+    { id: 9, title: "MoSPI & MyGov", category: "MyGov", image: "https://i.postimg.cc/fbzGNJyT/image.png" },
+    { id: 10, title: "Frontend Developer", category: "SWOC'25", image: "https://i.postimg.cc/XJhmdL8Z/image.png" },
+    { id: 11, title: "Master class of Figma", category: "Physics Wallah", image: "https://i.postimg.cc/rmdYVWkw/image.png" },
+    { id: 12, title: "Frontend Developer(React)", category: "HackerRank", image: "https://i.postimg.cc/XvqsLFXC/image.png" },
+    { id: 13, title: "Hackathon", category: "MAIT, Rohini", image: "https://i.postimg.cc/SKnGChtd/image.png" },
+    { id: 14, title: "AINCAT 2025", category: "Naukri Campus", image: "https://i.postimg.cc/bJX1n2tW/image.png" },
+    { id: 15, title: "Frontend Battle 2.0", category: "IIT Bhubaneswar", image: "https://i.postimg.cc/NjSXhrp4/image.png" },
   ];
 
   const loadMore = () => {
