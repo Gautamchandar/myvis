@@ -133,7 +133,7 @@ const App = ({ isDarkMode, toggleMode }) => {
             <div className="w-full h-full rounded-t-[200px] bg-[#0a0c16] overflow-hidden relative">
               <div className="absolute inset-0 bg-linear-to-t from-[#2d2159] via-[#4a3a8c] to-[#2d2159] opacity-80" />
               <img 
-                src="../src/assets/mypics/me.jpg" 
+                src="../src/assets/me.jpg" 
                 alt="gautamnaugaiofficialpic"
                 className="absolute bottom-0 left-1/2 -translate-x-1/2 w-[110%] h-[110%] object-cover object-top filter contrast-[1.1]"
               />
@@ -209,7 +209,7 @@ const App = ({ isDarkMode, toggleMode }) => {
         <div className="flex justify-center md:justify-end">
           <div className="w-80 h-96 overflow-hidden rounded-3xl bg-gray-800">
             <img 
-              src="../src/assets/mypics/profile.png" 
+              src="../src/assets/profile.png" 
               alt="Profile" 
               className="w-full h-full object-cover"
             />
