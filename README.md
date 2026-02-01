@@ -6,7 +6,7 @@ This project is a modern, responsive, and interactive web application built usin
 
 Fully component-driven design, where each section is developed as a reusable and scalable React component
 
-Smooth and engaging animations for better user experience
+Smooth and engaging animations for a better user experience
 
 Clean routing and seamless navigation across pages
 
@@ -14,17 +14,17 @@ Optimized performance with modern React practices
 
 **🛠️ Tech Stack Used**
 
-React.js – Core frontend library for building UI
+React.js - Core frontend library for building UI
 
-Framer Motion – For smooth animations and transitions
+Framer Motion - For smooth animations and transitions
 
-Lucide React – Lightweight and customizable icons
+Lucide React - Lightweight and customizable icons
 
-React Router DOM – For client-side routing and navigation
+React Router DOM - For client-side routing and navigation
 
-React Intersection Observer – To trigger animations and effects on scroll
+React Intersection Observer - To trigger animations and effects on scroll
 
-EmailJS – Integrated to connect the contact form directly with my Gmail account (no backend required)
+EmailJS - Integrated to connect the contact form directly with my Gmail account (no backend required)
 
 **📌 Features**
 
