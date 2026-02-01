@@ -1,4 +1,5 @@
 🚀 Portfolio - My vis - My Visualization
+
 This project is a modern, responsive, and interactive web application built using React.js with a strong focus on UI/UX, animations, and component-based architecture.
 
 ✨ Key Highlights
